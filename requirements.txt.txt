@@ -1,0 +1,9 @@
+streamlit
+openai-whisper
+transformers
+accelerate
+torch
+torchvision
+torchaudio
+streamlit-mic-recorder
+sentencepiece
