@@ -1,3 +1,20 @@
+<<<<<<< HEAD
+# App
+streamlit>=1.30
+streamlit-mic-recorder
+openai-whisper
+torch
+transformers>=4.40
+accelerate
+pandas
+fpdf2>=2.7
+sentence-transformers      # semantic grounding check (optional)
+pyannote.audio>=3.1        # speaker diarization (optional, needs HF token)
+
+# Fine-tuning and evaluation
+peft
+rouge-score
+=======
 streamlit
 openai-whisper
 transformers
@@ -7,3 +24,4 @@ torchvision
 torchaudio
 streamlit-mic-recorder
 sentencepiece
+>>>>>>> origin/main
